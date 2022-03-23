@@ -1,5 +1,7 @@
 # NewerLAA_ROMBuilder
 
+How To Use This Tool
+
 =========================
         READ ME
 =========================
