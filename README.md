@@ -1,4 +1,4 @@
-# NewerLAA_ROMBuilder ver1.2.x
+# < NewerLAA_ROMBuilder ver1.2.x >
 
 # Read Me
 このツールの二次配布は私の名前を明記するならオッケーです。
